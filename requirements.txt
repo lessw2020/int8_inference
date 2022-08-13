@@ -1,0 +1,6 @@
+accelerate
+transformers
+datasets
+sentencepiece
+bitsandbytes
+tqdm
